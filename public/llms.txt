@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+רוני בגדים מציעה את חווית הקנייה המושלמת באונליין. גלי את הקולקציות החדשות, בחרי את הסטייל שלך ותהני מפלטפורמת איקומרס מתקדמת שתשנה את הדרך שבה את קונה אופנה.
+
+### אודות
+https://example.com/about
+הכירי את הצוות שמאחורי רוני בגדים, המותג שמשלב אהבת אופנה עם טכנולוגיית איקומרס מתקדמת. גלי את הערכים, החזון והדרך שהפכה אותנו למותג אהוב על אלפי לקוחות בישראל.
+
+### לוקבוק
+https://example.com/lookbook
+לוקבוק רוני בגדים הוא מקום ההשראה האולטימטיבי לאופנה עכשווית. גלי קומבינציות לבוש מרהיבות, טרנדים חמים ומראות שיגרמו לך להרגיש מלכה — הכל בפלטפורמת איקומרס חכמה ונוחה לשימוש.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה, בקשה מיוחדת או סתם רוצה לדעת עוד על הקולקציות שלנו? צוות רוני בגדים כאן בשבילך. צרי קשר עכשיו ותקבלי מענה מהיר ואישי שיעזור לך למצוא בדיוק מה שחיפשת.
+
+### Products
+https://example.com/products
+המוצרים שלנו - רוני בגדים
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - רוני בגדים
+
+### Category
+https://example.com/category/:slug
+מוצרים - רוני בגדים
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
